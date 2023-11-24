@@ -22,19 +22,19 @@
 
 ### data_raw.csv
 
-**dataId: **网站对应歌曲id。
+**dataId**: 网站对应歌曲id。
 
-**dataLyricsId: **网站对应歌词id，无歌词时为'false'。
+**dataLyricsId**: 网站对应歌词id，无歌词时为'false'。
 
-**title: **歌曲标题。
+**title**: 歌曲标题。
 
-**lyrics: **歌曲歌词，包括歌词或注释，如日期、场次。
+**lyrics**: 歌曲歌词，包括歌词或注释，如日期、场次。
 
-**link: **下载直链。
+**link**: 下载直链。
 
-**linkPage: **Zvyki歌曲页面。
+**linkPage**: Zvyki歌曲页面。
 
-**time: **歌曲时长。
+**time**: 歌曲时长。
 
 # About Code
 
