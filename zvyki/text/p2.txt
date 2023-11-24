@@ -1,0 +1,1630 @@
+<div id="xx1" style="opacity: 100;">
+
+	<!-- ===== Header -->
+	<header id="header">
+		<div id="header_x1">
+
+			<!-- he-logo -->
+			<a href="/" id="he-logo"><img src="/i/img3/he-logo.png" alt="Zvyki.com"></a>
+			<!-- / he-logo -->
+
+			<!-- he-radio -->
+			<a href="/radio/russia/" id="he-radio">Радио</a>
+			<!-- / he-radio -->
+
+			<!-- he-search  -->
+			<div id="he-search-ctr">
+				<a href="javascript:void(0);" id="he-search-mob_search"></a>
+				<a href="javascript:void(0);" id="he-search-mob_close"></a>
+
+				<div id="he-search">
+					<form action="/api/search" method="get" id="search-form">
+						<input type="text" name="q" value="" placeholder="Поиск — песни или исполнителя" id="search-value">
+						<input type="submit" value="" id="search-submit">
+
+						<a href="#" id="search-submitter" class="hidden"></a>
+					</form>
+				</div>
+			</div>
+			<!-- / he-search  -->
+
+		</div>
+	</header>
+	<!-- / ===== Header -->
+
+	<!-- ==================== xx2 -->
+	<div id="xx2">
+						<div id="MF_Zvyki_D_Top"></div>
+				
+				<!-- ========== xBody -->
+		<div id="xbody">
+			<!--  <<<<<<<<<< LEFT -->
+			<div id="xbody-left">
+								<div class="player_block"><h1 class="player_block-title">все песни от: Иван Ожогин</h1><ul class="playlist ui-sortable" id="playlist">
+	<li class="track" data-index="0" data-id="48649508" data-mp3="https://data.zvyki.com/listen/48649508/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobCs4Q28vVkYvTk5pbVVRM0JXdVdWY2dDR1RvSU50WVhIdnRUSXdmQW13VG5zb2pMak5mbnNwWTlLbkljVU1XUktRQk4xenRzNXZxVjd2cFN5Z0p4VFc/Ivan_Ozhogin_-_One_More_for_the_Road_-The_Sky_s_the_Limit_live_(Zvyki.com).mp3" data-duration="252000" data-lyrics-id="145516330">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - One More for the Road -The Sky's the Limit (live)">слушать Иван Ожогин - One More for the Road -The Sky's the Limit (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F48649508%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobCs4Q28vVkYvTk5pbVVRM0JXdVdWY2dDR1RvSU50WVhIdnRUSXdmQW13VG5zb2pMak5mbnNwWTlLbkljVU1XUktRQk4xenRzNXZxVjd2cFN5Z0p4VFc%2FIvan_Ozhogin_-_One_More_for_the_Road_-The_Sky_s_the_Limit_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - One More for the Road -The Sky's the Limit (live)">скачать Иван Ожогин - One More for the Road -The Sky's the Limit (live)</a>
+
+			04:12
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/48649508/Ivan_Ozhogin_-_One_More_for_the_Road_-The_Sky_s_the_Limit_live/"><span class="ctitle">One More for the Road -The Sky's the Limit (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Harold Arlen - Johnny Mercer <br>
+Творческий вечер "La Inspiración" <br>
+Санкт-Петербург, 15.09.2012 г.</div></li>
+	
+	<li class="track" data-index="1" data-id="48707535" data-mp3="https://data.zvyki.com/listen/48707535/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobmNVQ1JWN0dmc09zcTJBaEUvcWt6c3FRMDFDZExCYVhaMmJxSGVoWFMvTm9CNEgzdnN0ZVA4ODJpa2U2QXpYaWQxYVlkUW54bTVvMEwwcll4TnNrVTA/Ivan_Ozhogin_-_ZHuravli_(Zvyki.com).mp3" data-duration="205000" data-lyrics-id="152305741">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Журавли">слушать Иван Ожогин - Журавли</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F48707535%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobmNVQ1JWN0dmc09zcTJBaEUvcWt6c3FRMDFDZExCYVhaMmJxSGVoWFMvTm9CNEgzdnN0ZVA4ODJpa2U2QXpYaWQxYVlkUW54bTVvMEwwcll4TnNrVTA%2FIvan_Ozhogin_-_ZHuravli_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Журавли">скачать Иван Ожогин - Журавли</a>
+
+			03:25
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/48707535/Ivan_Ozhogin_-_ZHuravli/"><span class="ctitle">Журавли</span></a></div>
+		
+	<div class="playlist-lyrics">08 сентября 2013 г., Государственная академическая капелла Санкт-Петербурга, концерт "Слушай, Ленинград"<br>
+<br>
+Музыка: Ян Френкель <br>
+Слова: Расул Гамзатов (русский текст: Наум Гребнев)<br>
+<br>
+Мне кажется порою, что солдаты,<br>
+С кровавых не пришедшие полей,<br>
+Не в землю эту полегли когда-то,<br>
+А превратились в белых журавлей.<br>
+<br>
+Они до сей поры с времен тех дальних<br>
+Летят и подают нам голоса.<br>
+Не потому ль так часто и печально<br>
+Мы замолкаем, глядя в небеса?<br>
+<br>
+Летит, летит по небу клин усталый -<br>
+Летит в тумане на исходе дня,<br>
+И в том строю есть промежуток малый -<br>
+Быть может, это место для меня!<br>
+<br>
+Настанет день, и с журавлиной стаей<br>
+Я поплыву в такой же сизой мгле,<br>
+Из-под небес по-птичьи окликая<br>
+Всех вас, кого оставил на земле.</div></li>
+	
+	<li class="track" data-index="2" data-id="48707539" data-mp3="https://data.zvyki.com/listen/48707539/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobmNVQ1JWN0dmc09zcTJBaEUvcWt6c3Jld24xU3RIU2hmUUYvTUxOcVVzZjhHY2tnY01MdlRZZmtiVVhWVXVyVFo3RU8yVklhc01kRE5XNmltajhtUXQ/Ivan_Ozhogin_-_Priglashenie_na_bal_(Zvyki.com).mp3" data-duration="139000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Приглашение на бал">слушать Иван Ожогин - Приглашение на бал</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F48707539%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobmNVQ1JWN0dmc09zcTJBaEUvcWt6c3Jld24xU3RIU2hmUUYvTUxOcVVzZjhHY2tnY01MdlRZZmtiVVhWVXVyVFo3RU8yVklhc01kRE5XNmltajhtUXQ%2FIvan_Ozhogin_-_Priglashenie_na_bal_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Приглашение на бал">скачать Иван Ожогин - Приглашение на бал</a>
+
+			02:19
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/48707539/Ivan_Ozhogin_-_Priglashenie_na_bal/"><span class="ctitle">Приглашение на бал</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="3" data-id="48718174" data-mp3="https://data.zvyki.com/listen/48718174/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobkQwNXRjL1NhS1k4VXdrQzgwNlVhV3F2SVdMV2VHdmxWaDA3eldwMmVkclZNSzNpUVRybFZUNCtLOTFNaFM5Y2ZvYXBlcml3MTNPWXBOMXV0R3RtMHk/Ivan_Ozhogin_-_Neutolimaya_zhazhda_Bal_Vampirov_ariya_Grafa_fon_Kroloka_(Zvyki.com).mp3" data-duration="365000" data-lyrics-id="145262646">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Неутолимая жажда (&quot;Бал Вампиров&quot;, ария Графа фон Кролока)">слушать Иван Ожогин - Неутолимая жажда ("Бал Вампиров", ария Графа фон Кролока)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F48718174%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobkQwNXRjL1NhS1k4VXdrQzgwNlVhV3F2SVdMV2VHdmxWaDA3eldwMmVkclZNSzNpUVRybFZUNCtLOTFNaFM5Y2ZvYXBlcml3MTNPWXBOMXV0R3RtMHk%2FIvan_Ozhogin_-_Neutolimaya_zhazhda_Bal_Vampirov_ariya_Grafa_fon_Kroloka_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Неутолимая жажда (&quot;Бал Вампиров&quot;, ария Графа фон Кролока)">скачать Иван Ожогин - Неутолимая жажда ("Бал Вампиров", ария Графа фон Кролока)</a>
+
+			06:05
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/48718174/Ivan_Ozhogin_-_Neutolimaya_zhazhda_Bal_Vampirov_ariya_Grafa_fon_Kroloka/"><span class="ctitle">Неутолимая жажда ("Бал Вампиров", ария Графа фон Кролока)</span></a></div>
+		
+	<div class="playlist-lyrics">Тишина и мрак ночной,<br>
+За тучи скрылась от меня луна.<br>
+От ужаса она трепещет предо мной.<br>
+Я один с моей тоской,<br>
+ведь в это мире я изгой.<br>
+Июльский вечер,золотой закат,<br>
+Это было ровно 300 лет назад,<br>
+Шептал я нежные слова<br>
+и над нами шелестела в поле трава.<br>
+С ума сошли мы от любовных ласк,<br>
+Для нас обоих это было в первый раз.<br>
+Не могу забыть ее предсмертный крик<br>
+В объятиях моих.<br>
+Я темной силы порождение,<br>
+Полночный правлю бал.<br>
+Судьбою проклят от рождения, - <br>
+Покоя я не знал.<br>
+И во мраке безутешно душа блуждает сотни лет,<br>
+И веры нет и нетнадежды во мне.<br>
+....<br>
+<br>
+Я постичь пытался невозможное,<br>
+Я стремился в никуда.<br>
+навеки счастлив быть не может,тот <br>
+Кто проклят навсегда.<br>
+<br>
+Увы, неведала опасности <br>
+дочка католического пастора,<br>
+Она вздохнула тихо в смертный час<br>
+И взор ее угас.<br>
+Паж был беспечен, юн<br>
+У дворца почетный нес он караул.<br>
+О том,как был жесток его удел<br>
+Я плакал и скорбел.<br>
+О, как мучительны скитания<br>
+Потерянной души,<br>
+но я не чувствую раскаянья<br>
+за то, что совершил.<br>
+И я плачу кровавой данью,<br>
+Чтоб утолить тоску свою,<br>
+Я грешный ангел во тьме мироздания,<br>
+...<br>
+Я разрушаю все, что люблю.<br>
+<br>
+Я постичь пытался невозможное,<br>
+Я стремился в никуда.<br>
+Только счастлив быть не может,<br>
+Тот кто проклят навсегда.<br>
+<br>
+Кто-то молится Иисусу, <br>
+Другому милей Коран, -<br>
+Каждый волен себе по вкусу<br>
+выбирать паству и храм.<br>
+Для кого-то богатства превыше всего,<br>
+А кто-то лишь дьявола чтит одного.<br>
+.....<br>
+Отныне и в грядущем<br>
+Я судья и я пророк,<br>
+Я предрекаю всем ныне живущим:<br>
+Взойдет на престол жестокий бог,<br>
+Кровавой жажды бог.</div></li>
+	
+	<li class="track" data-index="4" data-id="49027967" data-mp3="https://data.zvyki.com/listen/49027967/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobnVUWC9EN1NHOUxWSXM4cTdudjhlU1ZLeGk2WllYbDUyd1Q0akRjQ2Z5NndJN29NYndxQlRRNWZNKytkM2NZUFBWd243RCtNTDBpR2tZTlcydHc1aEg/Ivan_Ozhogin_-_Smeh_fon_Kroloka_-_Bal_vampirov_(Zvyki.com).mp3" data-duration="15000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Смех фон Кролока - Бал вампиров">слушать Иван Ожогин - Смех фон Кролока - Бал вампиров</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F49027967%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobnVUWC9EN1NHOUxWSXM4cTdudjhlU1ZLeGk2WllYbDUyd1Q0akRjQ2Z5NndJN29NYndxQlRRNWZNKytkM2NZUFBWd243RCtNTDBpR2tZTlcydHc1aEg%2FIvan_Ozhogin_-_Smeh_fon_Kroloka_-_Bal_vampirov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Смех фон Кролока - Бал вампиров">скачать Иван Ожогин - Смех фон Кролока - Бал вампиров</a>
+
+			00:15
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/49027967/Ivan_Ozhogin_-_Smeh_fon_Kroloka_-_Bal_vampirov/"><span class="ctitle">Смех фон Кролока - Бал вампиров</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="5" data-id="49675532" data-mp3="https://data.zvyki.com/listen/49675532/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobE9MeHVReEZidDNHUForY1dPYkNTakg3bXhWN1Z0YlVUMSs5RzBqMG9IVDhRQmZhMjhHNERxN1V0LzJwblRtY25IOXJkRkg2YUQzS3dIckVRU2M0QUE/Ivan_Ozhogin_-_Pesnya_o_Moskve_-_k_f_Svinarka_i_Pastuh_(Zvyki.com).mp3" data-duration="241000" data-lyrics-id="132186757">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Песня о Москве - к/ф &quot;Свинарка и Пастух&quot;">слушать Иван Ожогин - Песня о Москве - к/ф "Свинарка и Пастух"</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F49675532%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobE9MeHVReEZidDNHUForY1dPYkNTakg3bXhWN1Z0YlVUMSs5RzBqMG9IVDhRQmZhMjhHNERxN1V0LzJwblRtY25IOXJkRkg2YUQzS3dIckVRU2M0QUE%2FIvan_Ozhogin_-_Pesnya_o_Moskve_-_k_f_Svinarka_i_Pastuh_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Песня о Москве - к/ф &quot;Свинарка и Пастух&quot;">скачать Иван Ожогин - Песня о Москве - к/ф "Свинарка и Пастух"</a>
+
+			04:01
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/49675532/Ivan_Ozhogin_-_Pesnya_o_Moskve_-_k_f_Svinarka_i_Pastuh/"><span class="ctitle">Песня о Москве - к/ф "Свинарка и Пастух"</span></a></div>
+		
+	<div class="playlist-lyrics">Т.Хренников - В.Гусев<br>
+Концерт "К 100-летию Тихона Хренникова"<br>
+30.10.2013 г., г. Москва</div></li>
+	
+	<li class="track" data-index="6" data-id="49846205" data-mp3="https://data.zvyki.com/listen/49846205/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobU8zWGxuNlF3bVpTVzR2U0ZMaDE3eUQ5Q1hNVG9uUDEvUjNCUHhnT2UzZkRIalZ3UlZndWJBRHVDenBib0tCcHJRTTB2b1g0WFlZTmFKV1hMbzJYUUM/Ivan_Ozhogin_-_Bog_mertv_-_Bal_vampirov_(Zvyki.com).mp3" data-duration="186000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Бог мертв - Бал вампиров">слушать Иван Ожогин - Бог мертв - Бал вампиров</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F49846205%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobU8zWGxuNlF3bVpTVzR2U0ZMaDE3eUQ5Q1hNVG9uUDEvUjNCUHhnT2UzZkRIalZ3UlZndWJBRHVDenBib0tCcHJRTTB2b1g0WFlZTmFKV1hMbzJYUUM%2FIvan_Ozhogin_-_Bog_mertv_-_Bal_vampirov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Бог мертв - Бал вампиров">скачать Иван Ожогин - Бог мертв - Бал вампиров</a>
+
+			03:06
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/49846205/Ivan_Ozhogin_-_Bog_mertv_-_Bal_vampirov/"><span class="ctitle">Бог мертв - Бал вампиров</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="7" data-id="49846208" data-mp3="https://data.zvyki.com/listen/49846208/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobU8zWGxuNlF3bVpTVzR2U0ZMaDE3eTF5cUMyQnJrL0xQV2RjS1VoK21BRjFZVWpVTmZSeDdlZnltenVEbXlBZEx6NkFVSzY0bUM5NGQ1WCt2dGdIL2E/Ivan_Ozhogin_-_Neutolimaya_zhazhda_(Zvyki.com).mp3" data-duration="351000" data-lyrics-id="44338747">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Неутолимая жажда">слушать Иван Ожогин - Неутолимая жажда</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F49846208%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobU8zWGxuNlF3bVpTVzR2U0ZMaDE3eTF5cUMyQnJrL0xQV2RjS1VoK21BRjFZVWpVTmZSeDdlZnltenVEbXlBZEx6NkFVSzY0bUM5NGQ1WCt2dGdIL2E%2FIvan_Ozhogin_-_Neutolimaya_zhazhda_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Неутолимая жажда">скачать Иван Ожогин - Неутолимая жажда</a>
+
+			05:51
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/49846208/Ivan_Ozhogin_-_Neutolimaya_zhazhda/"><span class="ctitle">Неутолимая жажда</span></a></div>
+		
+	<div class="playlist-lyrics">Тишина и мрак ночной<br>
+За тучи скрылась от меня луна.<br>
+От ужаса она трепещет предо мной<br>
+Я один с моей тоской,ведь в этом мире я изгой<br>
+<br>
+Июльский вечер,золотой закат,это было ровно 300 лет назад<br>
+Шептал я нежные слова и над нами шелестела в поле трава.<br>
+С ума сошли мы от любовных ласк,<br>
+Для нас обоих это было в первый раз.<br>
+Не могу забыть её предсмертный крик в объятиях моих.<br>
+Я - темной силы порождение - полночный правлю бал<br>
+Судьбою проклят от рождения,покоя я не знал<br>
+И во мраке безутешном душа блуждает сотни лет<br>
+И веры нет и нет надежды во мне<br>
+Я грешник,дух мятежный,жаждой вечной одержим<br>
+И выхода нет...<br>
+<br>
+Я постичь пытался невозможное,<br>
+Я стремился в никуда<br>
+Вовеки счастлив быть не может<br>
+Тот,кто проклят навсегда<br>
+<br>
+Увы,не ведала опасности дочка католического пастора<br>
+Она вздохнула тихо в смертный час и взор ее угас<br>
+Бонапарта паж был так беспечен и юн<br>
+У дворца почетный нес он караул.<br>
+О том,как был жесток его удел<br>
+Я плакал и скорбел.<br>
+<br>
+О как мучительны скитания потерянной души,<br>
+Но я не чувствую раскаяния за то,что совершил.<br>
+Я плачу кровавой данью,чтобы утолить тоску свою<br>
+Я грешный ангел во тьме мироздания<br>
+Я жертва ненасытного желанья,обречен я на страданье,<br>
+Разрушая всё,что люблю...<br>
+<br>
+Я постичь пытался невозможное,<br>
+Я стремился в никуда<br>
+Только счастлив быть не может<br>
+Тот,кто проклят навсегда<br>
+<br>
+Кто-то молится Иисусу,другому милей Коран<br>
+Каждый волен себе по вкусу выбирать божество и храм.<br>
+Для кого-то богатство превыше всего,а кто-то лишь дьявола чтит одного<br>
+Кто-то верить готов,что в мире властвует любовь<br>
+Презирая жалкий мир земной,я покорен высшей власти<br>
+Ненасытной жгучей страсти,что вовеки будет править мной<br>
+<br>
+Отныне и в грядущем,я судья и я пророк<br>
+И я предрекаю всем ныне живущим<br>
+Взойдет на престол жестокий Бог<br>
+Кровавой жажды Бог</div></li>
+	
+	<li class="track" data-index="8" data-id="49846212" data-mp3="https://data.zvyki.com/listen/49846212/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoazVzZFNKdHlRckxoOVNhbUttZlNJTHJiN25aVDc2VFl2Q2NjOUNnSHEvYXBKNml6MUN4cmN0SDNoWmI5dnpQU3hjZ255S0R3RllSMEl1SGUwN2VZbG8/Ivan_Ozhogin_-_Eh_dorogi_(Zvyki.com).mp3" data-duration="263000" data-lyrics-id="152300513">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Эх, дороги">слушать Иван Ожогин - Эх, дороги</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F49846212%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoazVzZFNKdHlRckxoOVNhbUttZlNJTHJiN25aVDc2VFl2Q2NjOUNnSHEvYXBKNml6MUN4cmN0SDNoWmI5dnpQU3hjZ255S0R3RllSMEl1SGUwN2VZbG8%2FIvan_Ozhogin_-_Eh_dorogi_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Эх, дороги">скачать Иван Ожогин - Эх, дороги</a>
+
+			04:23
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/49846212/Ivan_Ozhogin_-_Eh_dorogi/"><span class="ctitle">Эх, дороги</span></a></div>
+		
+	<div class="playlist-lyrics">08 сентября 2013 г., Государственная академическая капелла Санкт-Петербурга, концерт "Слушай, Ленинград"<br>
+<br>
+Музыка: Анатолий Новиков <br>
+Слова: Лев Ошанин<br>
+<br>
+Эх, дороги...<br>
+Пыль да туман,<br>
+Холода, тревоги<br>
+Да степной бурьян.<br>
+Знать не можешь<br>
+Доли своей:<br>
+Может, крылья сложишь<br>
+Посреди степей.<br>
+Вьется пыль под сапогами -<br>
+Степями, полями, -<br>
+А кругом бушует пламя<br>
+Да пули свистят.<br>
+<br>
+Эх, дороги...<br>
+Пыль да туман,<br>
+Холода, тревоги<br>
+Да степной бурьян.<br>
+Выстрел грянет,<br>
+Ворон кружит:<br>
+Твой дружок в бурьяне<br>
+Неживой лежит.<br>
+А дорога дальше мчится,<br>
+Пылится, клубится,<br>
+А кругом земля дымится -<br>
+Чужая земля!<br>
+<br>
+Эх, дороги...<br>
+Пыль да туман,<br>
+Холода, тревоги<br>
+Да степной бурьян.<br>
+Край сосновый.<br>
+Солнце встает.<br>
+У крыльца родного<br>
+Мать сыночка ждет.<br>
+И бескрайними путями -<br>
+Cтепями, полями -<br>
+Все глядят вослед за нами<br>
+Родные глаза.<br>
+<br>
+Эх, дороги...<br>
+Пыль да туман,<br>
+Холода, тревоги<br>
+Да степной бурьян.<br>
+Снег ли, ветер<br>
+Вспомним, друзья,<br>
+Нам дороги эти<br>
+Позабыть нельзя...</div></li>
+	
+	<li class="track" data-index="9" data-id="50291725" data-mp3="https://data.zvyki.com/listen/50291725/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGE3UVBETlVwMVlwMlhpbklkanZmOExGMWNDeU42UldrT1ptTWVXcGRlS0hQTzM2dCt1N0M4aWxsR2ZFUUk3Q1JsY0hVN0FOSnZPZVR1RW4xbWdGQlo/Ivan_Ozhogin_-_Bez_zhencshin_live_(Zvyki.com).mp3" data-duration="210000" data-lyrics-id="145490033">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Без женщин (live)">слушать Иван Ожогин - Без женщин (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F50291725%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGE3UVBETlVwMVlwMlhpbklkanZmOExGMWNDeU42UldrT1ptTWVXcGRlS0hQTzM2dCt1N0M4aWxsR2ZFUUk3Q1JsY0hVN0FOSnZPZVR1RW4xbWdGQlo%2FIvan_Ozhogin_-_Bez_zhencshin_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Без женщин (live)">скачать Иван Ожогин - Без женщин (live)</a>
+
+			03:30
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/50291725/Ivan_Ozhogin_-_Bez_zhencshin_live/"><span class="ctitle">Без женщин (live)</span></a></div>
+		
+	<div class="playlist-lyrics">А. Вертинский - А. Вертинский<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="10" data-id="50527589" data-mp3="https://data.zvyki.com/listen/50527589/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobEhwQS9rUUdGN01oaWd2aFIwdGJiSEZoMWdOUGpVVERMRy9saHRMaXNGZXhBQWVORGFhenRXRENRT3dNd1VlMHA3a2V1cksxZ2gyNFBpdFlnQzl4b0s/Ivan_Ozhogin_-_The_Ballad_of_Mack_the_Knife_-_The_Threepenny_Opera_live_(Zvyki.com).mp3" data-duration="192000" data-lyrics-id="145515361">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - The Ballad of Mack the Knife - The Threepenny Opera (live)">слушать Иван Ожогин - The Ballad of Mack the Knife - The Threepenny Opera (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F50527589%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobEhwQS9rUUdGN01oaWd2aFIwdGJiSEZoMWdOUGpVVERMRy9saHRMaXNGZXhBQWVORGFhenRXRENRT3dNd1VlMHA3a2V1cksxZ2gyNFBpdFlnQzl4b0s%2FIvan_Ozhogin_-_The_Ballad_of_Mack_the_Knife_-_The_Threepenny_Opera_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - The Ballad of Mack the Knife - The Threepenny Opera (live)">скачать Иван Ожогин - The Ballad of Mack the Knife - The Threepenny Opera (live)</a>
+
+			03:12
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/50527589/Ivan_Ozhogin_-_The_Ballad_of_Mack_the_Knife_-_The_Threepenny_Opera_live/"><span class="ctitle">The Ballad of Mack the Knife - The Threepenny Opera (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Kurt Weill - Bertolt Brecht<br>
+Творческий вечер "La Inspiración" <br>
+Санкт-Петербург, 15.09.2012 г.</div></li>
+	
+	<li class="track" data-index="11" data-id="50700799" data-mp3="https://data.zvyki.com/listen/50700799/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUlyQTY3MEw2OGlhR2lMME9WeXlHVlZaVk83ZVJKQXVNd1dXcUtGZDVkKzJocEVxc3F6WXEzM1dKNnlaLzQ0VEEwRTNBUnlFSXhGUkozVTRrNGJhcis/Ivan_Ozhogin_-_Tolko_raz_byvayut_v_zhizni_vstrechi_live_(Zvyki.com).mp3" data-duration="229000" data-lyrics-id="146880467">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Только раз бывают в жизни встречи (live)">слушать Иван Ожогин - Только раз бывают в жизни встречи (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F50700799%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUlyQTY3MEw2OGlhR2lMME9WeXlHVlZaVk83ZVJKQXVNd1dXcUtGZDVkKzJocEVxc3F6WXEzM1dKNnlaLzQ0VEEwRTNBUnlFSXhGUkozVTRrNGJhcis%2FIvan_Ozhogin_-_Tolko_raz_byvayut_v_zhizni_vstrechi_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Только раз бывают в жизни встречи (live)">скачать Иван Ожогин - Только раз бывают в жизни встречи (live)</a>
+
+			03:49
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/50700799/Ivan_Ozhogin_-_Tolko_raz_byvayut_v_zhizni_vstrechi_live/"><span class="ctitle">Только раз бывают в жизни встречи (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Б. Фомин - П. Герман<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="12" data-id="51828479" data-mp3="https://data.zvyki.com/listen/51828479/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobVlUUW1lMXZvTUpDVG1wbTBia25TUm5PVDRzQUZRaXg5RHpTN0h0RlFzOGRuc3o3WEhONEQ3ZFM2SkhPN2hLNmNLT1RNZ1RiTHEzck5oazNsenhjNDM/Ivan_Ozhogin_-_Route_66_live_(Zvyki.com).mp3" data-duration="166000" data-lyrics-id="132710872">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Route 66 (live)">слушать Иван Ожогин - Route 66 (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F51828479%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobVlUUW1lMXZvTUpDVG1wbTBia25TUm5PVDRzQUZRaXg5RHpTN0h0RlFzOGRuc3o3WEhONEQ3ZFM2SkhPN2hLNmNLT1RNZ1RiTHEzck5oazNsenhjNDM%2FIvan_Ozhogin_-_Route_66_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Route 66 (live)">скачать Иван Ожогин - Route 66 (live)</a>
+
+			02:46
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/51828479/Ivan_Ozhogin_-_Route_66_live/"><span class="ctitle">Route 66 (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Bobby Troup <br>
+Творческий вечер "La Inspiración" <br>
+Санкт-Петербург, 15.09.2012 г.</div></li>
+	
+	<li class="track" data-index="13" data-id="52286434" data-mp3="https://data.zvyki.com/listen/52286434/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobnY2bE11eFlUdWMwUVRwKzJDSEZJL1JON3NwR095ZTFoTnVqRDBPMDQvODNwMHcrWnRGSmhnWlZlUDgwMjc3cTZuZU5PSnZoS0s4R0tERXdRN1Z4K0s/Ivan_Ozhogin_-_Gefsimanskij_sad_(Zvyki.com).mp3" data-duration="303000" data-lyrics-id="173679740">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Гефсиманский сад">слушать Иван Ожогин - Гефсиманский сад</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F52286434%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobnY2bE11eFlUdWMwUVRwKzJDSEZJL1JON3NwR095ZTFoTnVqRDBPMDQvODNwMHcrWnRGSmhnWlZlUDgwMjc3cTZuZU5PSnZoS0s4R0tERXdRN1Z4K0s%2FIvan_Ozhogin_-_Gefsimanskij_sad_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Гефсиманский сад">скачать Иван Ожогин - Гефсиманский сад</a>
+
+			05:03
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/52286434/Ivan_Ozhogin_-_Gefsimanskij_sad/"><span class="ctitle">Гефсиманский сад</span></a></div>
+		
+	<div class="playlist-lyrics">(Иисус)<br>
+Кто-нибудь останется со мной?<br>
+Петр? Иоанн? Иаков?<br>
+Кто-нибудь из вас пойдет со мной? <br>
+Петр? Иоанн? Иаков?<br>
+<br>
+Я об одном молю,<br>
+Как судьбу мою:<br>
+Не испить мне чашу эту,<br>
+Горечь яда душу жалит!<br>
+Дай мне силы, чтоб я снова<br>
+Стал таким, каким ты хочешь!<br>
+Я лишь добра хотел,<br>
+Жаль, что не сумел<br>
+Оправдать твои надежды,<br>
+Но три года стоят жизни.<br>
+Разве мог бы кто-нибудь другой проделать этот путь?<br>
+<br>
+Пусть я умру, вынесу все муки,<br>
+Но исполню твой приказ!<br>
+Дам им истязать себя,<br>
+Распять всем на показ!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+За что умру?<br>
+<br>
+Разве смерть моя тебе нужней, важней, чем жизнь? Кто увидит кровь мою в потоках грязной лжи?<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Что ты тогда сможешь взамен мне дать?<br>
+Что ты тогда сможешь взамен мне дать?<br>
+Мне надо знать, Боже, мне надо знать!<br>
+Мне надо знать, Боже, мне надо знать!<br>
+За что мне смерть? Боже, за что мне смерть?<br>
+Как ты сможешь доказать, что жертва не пуста?<br>
+Дай мне знак, что внемлешь ты страданиям Христа!<br>
+Дай мне слово, что не зря ввергаюсь я во тьму!<br>
+Дай мне слово, что не зря я смерть свою приму!<br>
+За что мне смерть?<br>
+За что мне смерть?<br>
+За что мне смерть?<br>
+<br>
+Скорбь в моих устах,<br>
+Но я так устал!<br>
+За три года тридцать прожил,<br>
+Так скажи, зачем я должен<br>
+Завершать, что я не начал?<br>
+Я бы сделал все иначе,<br>
+Будь все в моих руках,<br>
+Я б смерти не искал,<br>
+Но я выпью чашу эту, пригвозди меня к распятью! <br>
+Бей, терзай, пытай,<br>
+Спеши, пока я верую в тебя!</div></li>
+	
+	<li class="track" data-index="14" data-id="52534452" data-mp3="https://data.zvyki.com/listen/52534452/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUlsYTl0VzRYczBGSjAyUGxNMUJQR2NoTlEzTVYydW90M3QvUXJWandzZzRzdXJNMi9jbzNyUDE1UTMzd1c1MlVJSnF0S1BrejkzbUMwQ0NYbzk1dW0/Ivan_Ozhogin_-_YA_pomnyu_chudnoe_mgnovene_(Zvyki.com).mp3" data-duration="217000" data-lyrics-id="171715614">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Я помню чудное мгновенье">слушать Иван Ожогин - Я помню чудное мгновенье</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F52534452%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUlsYTl0VzRYczBGSjAyUGxNMUJQR2NoTlEzTVYydW90M3QvUXJWandzZzRzdXJNMi9jbzNyUDE1UTMzd1c1MlVJSnF0S1BrejkzbUMwQ0NYbzk1dW0%2FIvan_Ozhogin_-_YA_pomnyu_chudnoe_mgnovene_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Я помню чудное мгновенье">скачать Иван Ожогин - Я помню чудное мгновенье</a>
+
+			03:37
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/52534452/Ivan_Ozhogin_-_YA_pomnyu_chudnoe_mgnovene/"><span class="ctitle">Я помню чудное мгновенье</span></a></div>
+		
+	<div class="playlist-lyrics">М. Глинка – А. Пушкин<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="15" data-id="52597575" data-mp3="https://data.zvyki.com/listen/52597575/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobHRCUkZzWlVYTVJBWDh2c2I3UGt4c2xXQzd5UnRiNFFHWmF2MHRBblA1cU4vM2FvWmZVaHBwWHgwU0tqeks2bnJJTHRteE94RUhzZWJCeC80UDFBMUo/Ivan_Ozhogin_-_Spi_moya_krasavica_(Zvyki.com).mp3" data-duration="186000" data-lyrics-id="178911944">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Спи, моя красавица">слушать Иван Ожогин - Спи, моя красавица</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F52597575%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobHRCUkZzWlVYTVJBWDh2c2I3UGt4c2xXQzd5UnRiNFFHWmF2MHRBblA1cU4vM2FvWmZVaHBwWHgwU0tqeks2bnJJTHRteE94RUhzZWJCeC80UDFBMUo%2FIvan_Ozhogin_-_Spi_moya_krasavica_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Спи, моя красавица">скачать Иван Ожогин - Спи, моя красавица</a>
+
+			03:06
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/52597575/Ivan_Ozhogin_-_Spi_moya_krasavica/"><span class="ctitle">Спи, моя красавица</span></a></div>
+		
+	<div class="playlist-lyrics">06.04.2012 г., г. Обнинск<br>
+youtube.com/watch?v=AY3bS6Vv0UU</div></li>
+	
+	<li class="track" data-index="16" data-id="52906577" data-mp3="https://data.zvyki.com/listen/52906577/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa1JpREhDazZrV2dvKzZUTHliWWtlNHh6Tlo0MlBGbm1VajNTcFJQMDZmSExtOXk5bElXSk5GUE0yRWN2b1RBYUtwejVOd2dRL3JqVXQ2RXRwSHFMRHk/Ivan_Ozhogin_-_What_Now_My_Love_live_(Zvyki.com).mp3" data-duration="198000" data-lyrics-id="145516997">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - What Now My Love (live)">слушать Иван Ожогин - What Now My Love (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F52906577%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa1JpREhDazZrV2dvKzZUTHliWWtlNHh6Tlo0MlBGbm1VajNTcFJQMDZmSExtOXk5bElXSk5GUE0yRWN2b1RBYUtwejVOd2dRL3JqVXQ2RXRwSHFMRHk%2FIvan_Ozhogin_-_What_Now_My_Love_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - What Now My Love (live)">скачать Иван Ожогин - What Now My Love (live)</a>
+
+			03:18
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/52906577/Ivan_Ozhogin_-_What_Now_My_Love_live/"><span class="ctitle">What Now My Love (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Gilbert Bécaud - Pierre Delanoë<br>
+Творческий вечер "La Inspiración" <br>
+Санкт-Петербург, 15.09.2012 г.</div></li>
+	
+	<li class="track" data-index="17" data-id="53268898" data-mp3="https://data.zvyki.com/listen/53268898/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa21kZzVJTUNiM28zWEpTd0dsU3lxVHNkUzdCQmp4ZTNGMy90d2J1WFNGMmsrMXVreEp0NFcwSUkxNEczUnBzcFlndFM1ZVJpb3RJcnBhaXdHYTFSRlM/Ivan_Ozhogin_-_Zdes_horosho_live_(Zvyki.com).mp3" data-duration="130000" data-lyrics-id="146875623">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Здесь хорошо (live)">слушать Иван Ожогин - Здесь хорошо (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F53268898%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa21kZzVJTUNiM28zWEpTd0dsU3lxVHNkUzdCQmp4ZTNGMy90d2J1WFNGMmsrMXVreEp0NFcwSUkxNEczUnBzcFlndFM1ZVJpb3RJcnBhaXdHYTFSRlM%2FIvan_Ozhogin_-_Zdes_horosho_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Здесь хорошо (live)">скачать Иван Ожогин - Здесь хорошо (live)</a>
+
+			02:10
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/53268898/Ivan_Ozhogin_-_Zdes_horosho_live/"><span class="ctitle">Здесь хорошо (live)</span></a></div>
+		
+	<div class="playlist-lyrics">С. Рахманинов – Г. Галина<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="18" data-id="54943969" data-mp3="https://data.zvyki.com/listen/54943969/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGJqa1pjbGxqYTIxRjBKSjVUcGwzU2UxdmV5R0pUaWR6aFZTaWtVQ01xUm5Xc1hNQm9hYUd1QW9KQ1JQbFhzMDZrTTBiT3UwSTRtZEoya0lmQzBhRXM/Ivan_Ozhogin_-_Romans_N.Gumilyov_(Zvyki.com).mp3" data-duration="223000" data-lyrics-id="90091871">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Романс (Н.Гумилёв)">слушать Иван Ожогин - Романс (Н.Гумилёв)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F54943969%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGJqa1pjbGxqYTIxRjBKSjVUcGwzU2UxdmV5R0pUaWR6aFZTaWtVQ01xUm5Xc1hNQm9hYUd1QW9KQ1JQbFhzMDZrTTBiT3UwSTRtZEoya0lmQzBhRXM%2FIvan_Ozhogin_-_Romans_N.Gumilyov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Романс (Н.Гумилёв)">скачать Иван Ожогин - Романс (Н.Гумилёв)</a>
+
+			03:43
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/54943969/Ivan_Ozhogin_-_Romans_N.Gumilyov/"><span class="ctitle">Романс (Н.Гумилёв)</span></a></div>
+		
+	<div class="playlist-lyrics">Однообразные мелькают<br>
+Всё с той же болью дни мои.<br>
+Как будто розы опадают,<br>
+И умирают соловьи.<br>
+Но и она печальна тоже,<br>
+Мне приказавшая любовь.<br>
+И под её атласной кожей,<br>
+И под её атласной кожей<br>
+Бежит отравленная кровь.<br>
+<br>
+И, если я живу на свете,<br>
+То только лишь из-за мечты.<br>
+И оба, как слепые дети,<br>
+Пойдём на горные хребты.<br>
+Туда, где есть лишь только грёзы,<br>
+В край самых белых облаков,<br>
+Искать увянувшие розы,<br>
+Искать увянувшие розы<br>
+Имёртвых соловьёв.</div></li>
+	
+	<li class="track" data-index="19" data-id="55327202" data-mp3="https://data.zvyki.com/listen/55327202/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa0VHMlEzM0tiWkI2cGhDaTRQd2pzZFZNOVdLZVJZMVFDNlF1djQzcUxKdld2bWJsN1BLMDRzRmJuc0paaFJ2Q1M4Wm02MTBzMUZ0TmszVkdOV2V0aHU/Ivan_Ozhogin_-_La_vita_(Zvyki.com).mp3" data-duration="213000" data-lyrics-id="131980106">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - La vita è">слушать Иван Ожогин - La vita è</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F55327202%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa0VHMlEzM0tiWkI2cGhDaTRQd2pzZFZNOVdLZVJZMVFDNlF1djQzcUxKdld2bWJsN1BLMDRzRmJuc0paaFJ2Q1M4Wm02MTBzMUZ0TmszVkdOV2V0aHU%2FIvan_Ozhogin_-_La_vita_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - La vita è">скачать Иван Ожогин - La vita è</a>
+
+			03:33
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/55327202/Ivan_Ozhogin_-_La_vita/"><span class="ctitle">La vita è</span></a></div>
+		
+	<div class="playlist-lyrics">Massimo Varini e Filippo Neviani - Antonello De Sanctis</div></li>
+	
+	<li class="track" data-index="20" data-id="55757097" data-mp3="https://data.zvyki.com/listen/55757097/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobDFNb0NJSnhSMmZrNVpBODYvR0pDd0djeTBES09JSWxOVDRmVmVOczRpY0R2TGsxdHYxallJSks5MDFqMVQ2MWUrSmpsSVlZcHpBd2ZJRjZKNDJaM04/Ivan_Ozhogin_-_Saleri._Hity_Brodveya._(Zvyki.com).mp3" data-duration="170000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Сальери. Хиты Бродвея.">слушать Иван Ожогин - Сальери. Хиты Бродвея.</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F55757097%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobDFNb0NJSnhSMmZrNVpBODYvR0pDd0djeTBES09JSWxOVDRmVmVOczRpY0R2TGsxdHYxallJSks5MDFqMVQ2MWUrSmpsSVlZcHpBd2ZJRjZKNDJaM04%2FIvan_Ozhogin_-_Saleri._Hity_Brodveya._%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Сальери. Хиты Бродвея.">скачать Иван Ожогин - Сальери. Хиты Бродвея.</a>
+
+			02:50
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/55757097/Ivan_Ozhogin_-_Saleri._Hity_Brodveya./"><span class="ctitle">Сальери. Хиты Бродвея.</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="21" data-id="55950541" data-mp3="https://data.zvyki.com/listen/55950541/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUMwY25UdUFlSFAyS0ZscVpybVJ0d3M0empZN1JpekRzcldCdk1seDd2Zng2bWMrOCtmSDB2eUdYNEhJcTlnZWRPeDUyV0FZeHlRb0ZDSGpCLytsNy8/Ivan_Ozhogin_-_Krysha_zamka_-_Bal_vampirov_(Zvyki.com).mp3" data-duration="112000" data-lyrics-id="131324613">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Крыша замка - Бал вампиров">слушать Иван Ожогин - Крыша замка - Бал вампиров</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F55950541%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUMwY25UdUFlSFAyS0ZscVpybVJ0d3M0empZN1JpekRzcldCdk1seDd2Zng2bWMrOCtmSDB2eUdYNEhJcTlnZWRPeDUyV0FZeHlRb0ZDSGpCLytsNy8%2FIvan_Ozhogin_-_Krysha_zamka_-_Bal_vampirov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Крыша замка - Бал вампиров">скачать Иван Ожогин - Крыша замка - Бал вампиров</a>
+
+			01:52
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/55950541/Ivan_Ozhogin_-_Krysha_zamka_-_Bal_vampirov/"><span class="ctitle">Крыша замка - Бал вампиров</span></a></div>
+		
+	<div class="playlist-lyrics">Хей хо хей<br>
+Вас погубит,Профессор,<br>
+Любопытство запретное.<br>
+На себе Ваши факты,Профессор,<br>
+Я проверить советую.<br>
+<br>
+Вы недооцениваете науку,фон Кролок.Я Вас заспиртую и присовокуплю к своей коллекции доказательств<br>
+<br>
+Ха-ха-ха<br>
+<br>
+Скоро Вам останется бесчинствовать только в фильмах ужасов.<br>
+<br>
+Пусть тебя не страшит неизвестность -<br>
+Здесь,Альфред,ты найдешь покой.<br>
+<br>
+Это мерзко!<br>
+<br>
+Уймитесь,Профессор,<br>
+Он душою давно со мной.</div></li>
+	
+	<li class="track" data-index="22" data-id="55950545" data-mp3="https://data.zvyki.com/listen/55950545/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUMwY25UdUFlSFAyS0ZscVpybVJ0d0J0cm5HT2VLWStQbWRKcHA0ZnNMemlEQnY2dFVzeGkxbnVYenFQbklaMjJxZ1ZZU3FLTlhtY1pqSE8wVnlTSVY/..Ivan_Ozhogin_-_Neutolimaya_zhazhda_Bal_vampirov_.._vonlaine.net_(Zvyki.com).mp3" data-duration="351000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать ..Иван Ожогин - Неутолимая жажда (Бал вампиров).. vonlaine.net/">слушать ..Иван Ожогин - Неутолимая жажда (Бал вампиров).. vonlaine.net/</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F55950545%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUMwY25UdUFlSFAyS0ZscVpybVJ0d0J0cm5HT2VLWStQbWRKcHA0ZnNMemlEQnY2dFVzeGkxbnVYenFQbklaMjJxZ1ZZU3FLTlhtY1pqSE8wVnlTSVY%2F..Ivan_Ozhogin_-_Neutolimaya_zhazhda_Bal_vampirov_.._vonlaine.net_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать ..Иван Ожогин - Неутолимая жажда (Бал вампиров).. vonlaine.net/">скачать ..Иван Ожогин - Неутолимая жажда (Бал вампиров).. vonlaine.net/</a>
+
+			05:51
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">..Иван Ожогин</span> - <a href="/song/55950545/..Ivan_Ozhogin_-_Neutolimaya_zhazhda_Bal_vampirov_.._vonlaine.net/"><span class="ctitle">Неутолимая жажда (Бал вампиров).. vonlaine.net/</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="23" data-id="56544844" data-mp3="https://data.zvyki.com/listen/56544844/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoazEzbVdhWTRmSzErdWJsYW8xbHIxZnI3aTJmNGk3bWh4TCt5ZGQ0b0JmZzhmQnBGd2FDUVdkMUNMVmpLb2h0K3pobnpSUUxlQnZ4Nmd6MkNyTzA4cm4/Ivan_Ozhogin_-_Puttin_On_The_Ritz_live_(Zvyki.com).mp3" data-duration="179000" data-lyrics-id="145516599">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Puttin' On The Ritz (live)">слушать Иван Ожогин - Puttin' On The Ritz (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F56544844%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoazEzbVdhWTRmSzErdWJsYW8xbHIxZnI3aTJmNGk3bWh4TCt5ZGQ0b0JmZzhmQnBGd2FDUVdkMUNMVmpLb2h0K3pobnpSUUxlQnZ4Nmd6MkNyTzA4cm4%2FIvan_Ozhogin_-_Puttin_On_The_Ritz_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Puttin' On The Ritz (live)">скачать Иван Ожогин - Puttin' On The Ritz (live)</a>
+
+			02:59
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/56544844/Ivan_Ozhogin_-_Puttin_On_The_Ritz_live/"><span class="ctitle">Puttin' On The Ritz (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Irving Berlin<br>
+Творческий вечер "La Inspiración" <br>
+Санкт-Петербург, 15.09.2012 г.</div></li>
+	
+	<li class="track" data-index="24" data-id="56889996" data-mp3="https://data.zvyki.com/listen/56889996/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa3hhMUgrcHcvcExyT0s4YmNiUVhsU09EQVVUeS9FdklQbWVQTlh6MmNsVFlSMXdjWWg4bWtzUHhQTEpxTXR6dmp4RThFU2E0V2xXMTN6Z1lxMjliSEM/Ivan_Ozhogin_-_All_By_Myself_live_(Zvyki.com).mp3" data-duration="283000" data-lyrics-id="197861540">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - All By Myself (live)">слушать Иван Ожогин - All By Myself (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F56889996%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa3hhMUgrcHcvcExyT0s4YmNiUVhsU09EQVVUeS9FdklQbWVQTlh6MmNsVFlSMXdjWWg4bWtzUHhQTEpxTXR6dmp4RThFU2E0V2xXMTN6Z1lxMjliSEM%2FIvan_Ozhogin_-_All_By_Myself_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - All By Myself (live)">скачать Иван Ожогин - All By Myself (live)</a>
+
+			04:43
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/56889996/Ivan_Ozhogin_-_All_By_Myself_live/"><span class="ctitle">All By Myself (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Sergei Rachmaninoff, Eric Carmen - Eric Carmen<br>
+Концерт "Back to Berlin".<br>
+Frannz Club in der Kulturbrauerei, Берлин, Германия. 10.05.2014 г.</div></li>
+	
+	<li class="track" data-index="25" data-id="57421324" data-mp3="https://data.zvyki.com/listen/57421324/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoblBlSDNaVS91eE5YNkk5MlV1YWVjVWpvaXJHUjd4STR2OXlkb0ZId0FkWkNBNXZVWStpdFgwQXFNZEVqK1JpSytFdDh4OWhBYk5hcEJTd2N2NlhBNnk/Ivan_Ozhogin_-_Nochnaya_Muzyka_(Zvyki.com).mp3" data-duration="302000" data-lyrics-id="200643849">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Ночная Музыка">слушать Иван Ожогин - Ночная Музыка</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F57421324%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoblBlSDNaVS91eE5YNkk5MlV1YWVjVWpvaXJHUjd4STR2OXlkb0ZId0FkWkNBNXZVWStpdFgwQXFNZEVqK1JpSytFdDh4OWhBYk5hcEJTd2N2NlhBNnk%2FIvan_Ozhogin_-_Nochnaya_Muzyka_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Ночная Музыка">скачать Иван Ожогин - Ночная Музыка</a>
+
+			05:02
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/57421324/Ivan_Ozhogin_-_Nochnaya_Muzyka/"><span class="ctitle">Ночная Музыка</span></a></div>
+		
+	<div class="playlist-lyrics">источник - https:soundcloud.com/tatiana-lupanova/the-music-of-the-night-the-phantom-of-the-opera</div></li>
+	
+	<li class="track" data-index="26" data-id="57744986" data-mp3="https://data.zvyki.com/listen/57744986/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa1c5WDBSVEVNQUdJMFU2SlpHREJrVkgrZWtxNkhTcEJNV2E0aEVEOFdENTVMaVdSeGJTNFhIWVNGWmhhWG5nR3o0YnBxS2Q1cCtoa25DV21HUkluWGI/Ivan_Ozhogin_-_My_Funny_Valentine_live_(Zvyki.com).mp3" data-duration="274000" data-lyrics-id="145515767">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - My Funny Valentine (live)">слушать Иван Ожогин - My Funny Valentine (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F57744986%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa1c5WDBSVEVNQUdJMFU2SlpHREJrVkgrZWtxNkhTcEJNV2E0aEVEOFdENTVMaVdSeGJTNFhIWVNGWmhhWG5nR3o0YnBxS2Q1cCtoa25DV21HUkluWGI%2FIvan_Ozhogin_-_My_Funny_Valentine_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - My Funny Valentine (live)">скачать Иван Ожогин - My Funny Valentine (live)</a>
+
+			04:34
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/57744986/Ivan_Ozhogin_-_My_Funny_Valentine_live/"><span class="ctitle">My Funny Valentine (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Richard Rodgers - Lorenz Hart<br>
+Творческий вечер "La Inspiración" <br>
+Санкт-Петербург, 15.09.2012 г.</div></li>
+	
+	<li class="track" data-index="27" data-id="57803024" data-mp3="https://data.zvyki.com/listen/57803024/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobm9aeDlzTXIvQk1zam8yV1k2S2NlYU4zTnRpS2x2S0YwZXVzcGl3TW9XRU5xUHBpODFqaUNFUFZBQVlkSVJ4Ynh5VXoxcDZDM0xwUkU3L1ZUK1UzcUg/Ivan_Ozhogin_-_Gott_ist_Tot_(Zvyki.com).mp3" data-duration="256000" data-lyrics-id="184709327">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Gott ist Tot">слушать Иван Ожогин - Gott ist Tot</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F57803024%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobm9aeDlzTXIvQk1zam8yV1k2S2NlYU4zTnRpS2x2S0YwZXVzcGl3TW9XRU5xUHBpODFqaUNFUFZBQVlkSVJ4Ynh5VXoxcDZDM0xwUkU3L1ZUK1UzcUg%2FIvan_Ozhogin_-_Gott_ist_Tot_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Gott ist Tot">скачать Иван Ожогин - Gott ist Tot</a>
+
+			04:16
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/57803024/Ivan_Ozhogin_-_Gott_ist_Tot/"><span class="ctitle">Gott ist Tot</span></a></div>
+		
+	<div class="playlist-lyrics">13.02</div></li>
+	
+	<li class="track" data-index="28" data-id="58018488" data-mp3="https://data.zvyki.com/listen/58018488/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa0czeCtZaUhOWnRid1Fua0IwTmNtOS9BdWYvTHE4ZFdCWTZSTDVFeCszL09tZW5WbmFzengrbVhqM0RJalBESC9MNkRsVkhJc1JPNzdpY0FCaVNZN2c/Ivan_Ozhogin_-_Ariya_knyazya_Mdivani_-_Pola_Negri_(Zvyki.com).mp3" data-duration="153000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Ария князя Мдивани - Пола Негри">слушать Иван Ожогин - Ария князя Мдивани - Пола Негри</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58018488%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa0czeCtZaUhOWnRid1Fua0IwTmNtOS9BdWYvTHE4ZFdCWTZSTDVFeCszL09tZW5WbmFzengrbVhqM0RJalBESC9MNkRsVkhJc1JPNzdpY0FCaVNZN2c%2FIvan_Ozhogin_-_Ariya_knyazya_Mdivani_-_Pola_Negri_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Ария князя Мдивани - Пола Негри">скачать Иван Ожогин - Ария князя Мдивани - Пола Негри</a>
+
+			02:33
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58018488/Ivan_Ozhogin_-_Ariya_knyazya_Mdivani_-_Pola_Negri/"><span class="ctitle">Ария князя Мдивани - Пола Негри</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="29" data-id="58018489" data-mp3="https://data.zvyki.com/listen/58018489/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa0czeCtZaUhOWnRid1Fua0IwTmNtOUVuRU1DWFBVQTNKVDQreFRUVXpxY1F2bE9lSWFmNkk5dFYycEw0SHBkaDhObkFldVhWRVFTQXdtSkkwa3piaGw/Ivan_Ozhogin_-_Pesnya_Lyubicha_-_Pola_Negri_(Zvyki.com).mp3" data-duration="300000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Песня Любича - Пола Негри">слушать Иван Ожогин - Песня Любича - Пола Негри</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58018489%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa0czeCtZaUhOWnRid1Fua0IwTmNtOUVuRU1DWFBVQTNKVDQreFRUVXpxY1F2bE9lSWFmNkk5dFYycEw0SHBkaDhObkFldVhWRVFTQXdtSkkwa3piaGw%2FIvan_Ozhogin_-_Pesnya_Lyubicha_-_Pola_Negri_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Песня Любича - Пола Негри">скачать Иван Ожогин - Песня Любича - Пола Негри</a>
+
+			05:00
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58018489/Ivan_Ozhogin_-_Pesnya_Lyubicha_-_Pola_Negri/"><span class="ctitle">Песня Любича - Пола Негри</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="30" data-id="58183769" data-mp3="https://data.zvyki.com/listen/58183769/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobnhNU0VYUm45Y2IrUmxsdlkwcWNGUHRvdFJoblNpeTJvdWRwRG0ybi85bitsNUo1ZVdBOHZaY0VnYjRXODk3dSthOGtEY1ExUkU3K3E0RUcyTGJnc1A/Ivan_Ozhogin_-_Travy_lugovye_E.N.Ptichkin_-_T.Ulyanova_(Zvyki.com).mp3" data-duration="209000" data-lyrics-id="188785803">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Травы луговые (Е.Н.Птичкин - Т.Ульянова)">слушать Иван Ожогин - Травы луговые (Е.Н.Птичкин - Т.Ульянова)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58183769%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobnhNU0VYUm45Y2IrUmxsdlkwcWNGUHRvdFJoblNpeTJvdWRwRG0ybi85bitsNUo1ZVdBOHZaY0VnYjRXODk3dSthOGtEY1ExUkU3K3E0RUcyTGJnc1A%2FIvan_Ozhogin_-_Travy_lugovye_E.N.Ptichkin_-_T.Ulyanova_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Травы луговые (Е.Н.Птичкин - Т.Ульянова)">скачать Иван Ожогин - Травы луговые (Е.Н.Птичкин - Т.Ульянова)</a>
+
+			03:29
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58183769/Ivan_Ozhogin_-_Travy_lugovye_E.N.Ptichkin_-_T.Ulyanova/"><span class="ctitle">Травы луговые (Е.Н.Птичкин - Т.Ульянова)</span></a></div>
+		
+	<div class="playlist-lyrics">От дорог устанешь ты и впервые<br>
+Упадёшь лицом в цветы луговые.<br>
+И качнётся синева над тобою,<br>
+Захмелеет голова тишиною<br>
+<br>
+Луг так ярок и душист,солнце греет.<br>
+Сладкий сон тебя в тиши одолеет.<br>
+И никто не упрекнёт за такое,<br>
+Вновь дорога позовёт,даль откроет..<br>
+<br>
+От дорог устанешь ты и впервые<br>
+Упадёшь лицом в цветы луговые.<br>
+И качнётся синева над тобою,<br>
+Захмелеет голова тишиною<br>
+<br>
+Может,я к тебе приду незаметно,<br>
+Рядом в травы упаду тихим ветром...</div></li>
+	
+	<li class="track" data-index="31" data-id="58265038" data-mp3="https://data.zvyki.com/listen/58265038/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa2UzbVRObW51YzN5QjZtWWUyYnA2MzRPNFRmT200QXhSMVRUNDhNN0F6blFRVU1EbWRxQUpxNzdRMStsSlpaY3dyRVZXZHk5T1lmd21mMlZtSjN6YVk/Ivan_Ozhogin_-_Can_t_Take_My_Eyes_off_You_live_(Zvyki.com).mp3" data-duration="235000" data-lyrics-id="197861381">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Can't Take My Eyes off You (live)">слушать Иван Ожогин - Can't Take My Eyes off You (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58265038%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa2UzbVRObW51YzN5QjZtWWUyYnA2MzRPNFRmT200QXhSMVRUNDhNN0F6blFRVU1EbWRxQUpxNzdRMStsSlpaY3dyRVZXZHk5T1lmd21mMlZtSjN6YVk%2FIvan_Ozhogin_-_Can_t_Take_My_Eyes_off_You_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Can't Take My Eyes off You (live)">скачать Иван Ожогин - Can't Take My Eyes off You (live)</a>
+
+			03:55
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58265038/Ivan_Ozhogin_-_Can_t_Take_My_Eyes_off_You_live/"><span class="ctitle">Can't Take My Eyes off You (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Bob Crew &amp; Bob Gaudio<br>
+Концерт "Back to Berlin".<br>
+Frannz Club in der Kulturbrauerei, Берлин, Германия. 10.05.2014 г.</div></li>
+	
+	<li class="track" data-index="32" data-id="58758560" data-mp3="https://data.zvyki.com/listen/58758560/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGtUSmVEVThVZ05jYXlnRUsrNHFCaEZuZGZUSFlJcU5KSmdpTHl2Z29aYUQrTDBXbmtSS25zVFRoaU9scWJJbEUzMWtqOHA1eUw1Yng2U0V2VGtJUkk/Ivan_Ozhogin_-_Priglashenie_na_bal_-_Bal_vampirov_(Zvyki.com).mp3" data-duration="137000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Приглашение на бал - Бал вампиров">слушать Иван Ожогин - Приглашение на бал - Бал вампиров</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58758560%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGtUSmVEVThVZ05jYXlnRUsrNHFCaEZuZGZUSFlJcU5KSmdpTHl2Z29aYUQrTDBXbmtSS25zVFRoaU9scWJJbEUzMWtqOHA1eUw1Yng2U0V2VGtJUkk%2FIvan_Ozhogin_-_Priglashenie_na_bal_-_Bal_vampirov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Приглашение на бал - Бал вампиров">скачать Иван Ожогин - Приглашение на бал - Бал вампиров</a>
+
+			02:17
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58758560/Ivan_Ozhogin_-_Priglashenie_na_bal_-_Bal_vampirov/"><span class="ctitle">Приглашение на бал - Бал вампиров</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="33" data-id="58942472" data-mp3="https://data.zvyki.com/listen/58942472/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobDZlelZiejQ0dFpoVFIwSlMweVNpQ3NnNjlBdE1FYWtGOXVISUQzUkhpSG12Q3A1dXVoeERmblJYbVJmWjNwNHVQM0dBVjRrQ2pMVVkzZ0wrQTU2Lzg/Ivan_Ozhogin_-_Die_unstillbare_Gier_-_Tanz_der_Vampire_(Zvyki.com).mp3" data-duration="382000" data-lyrics-id="204903045">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Die unstillbare Gier - Tanz der Vampire">слушать Иван Ожогин - Die unstillbare Gier - Tanz der Vampire</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58942472%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobDZlelZiejQ0dFpoVFIwSlMweVNpQ3NnNjlBdE1FYWtGOXVISUQzUkhpSG12Q3A1dXVoeERmblJYbVJmWjNwNHVQM0dBVjRrQ2pMVVkzZ0wrQTU2Lzg%2FIvan_Ozhogin_-_Die_unstillbare_Gier_-_Tanz_der_Vampire_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Die unstillbare Gier - Tanz der Vampire">скачать Иван Ожогин - Die unstillbare Gier - Tanz der Vampire</a>
+
+			06:22
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58942472/Ivan_Ozhogin_-_Die_unstillbare_Gier_-_Tanz_der_Vampire/"><span class="ctitle">Die unstillbare Gier - Tanz der Vampire</span></a></div>
+		
+	<div class="playlist-lyrics">13.02</div></li>
+	
+	<li class="track" data-index="34" data-id="58993611" data-mp3="https://data.zvyki.com/listen/58993611/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobEI2Q2lhNEJaejZXNnpXejN0UERVbDd2OW5uUE5PeVRmTW85RDJjN2pFK0s0Y0pUVWFpMlFEMEQvUm1RemdxeThiZ3g4Z3AzbDYxRDlCdjE5dkJVTDc/Ivan_Ozhogin_-_Serenada_Antonio_-_k_f_Duenya_(Zvyki.com).mp3" data-duration="179000" data-lyrics-id="206668670">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Серенада Антонио - к/ф &quot;Дуэнья&quot;">слушать Иван Ожогин - Серенада Антонио - к/ф "Дуэнья"</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F58993611%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobEI2Q2lhNEJaejZXNnpXejN0UERVbDd2OW5uUE5PeVRmTW85RDJjN2pFK0s0Y0pUVWFpMlFEMEQvUm1RemdxeThiZ3g4Z3AzbDYxRDlCdjE5dkJVTDc%2FIvan_Ozhogin_-_Serenada_Antonio_-_k_f_Duenya_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Серенада Антонио - к/ф &quot;Дуэнья&quot;">скачать Иван Ожогин - Серенада Антонио - к/ф "Дуэнья"</a>
+
+			02:59
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/58993611/Ivan_Ozhogin_-_Serenada_Antonio_-_k_f_Duenya/"><span class="ctitle">Серенада Антонио - к/ф "Дуэнья"</span></a></div>
+		
+	<div class="playlist-lyrics">Т. Хренников – Я. Халецкий<br>
+05.02.2011</div></li>
+	
+	<li class="track" data-index="35" data-id="59114542" data-mp3="https://data.zvyki.com/listen/59114542/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobDRVQzFQTkRvSWMzY1Q5VVJBdGRIWXlaYURTaEUzZTdGS1FIRlpaUjczVmJROVEyM25SNXJkaEZ6WlJpMndzRy9vRDUwanVzYlh2MTU0VzI0S1U5bjU/Ivan_Ozhogin_-_Neutolimaya_zhazhda_Ariya_Grafa_fon_Krolok_myuzikl_Bal_vampirov_(Zvyki.com).mp3" data-duration="365000" data-lyrics-id="112890794">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Неутолимая жажда(Ария Графа фон Кролок мюзикл &quot;Бал вампиров&quot;)">слушать Иван Ожогин - Неутолимая жажда(Ария Графа фон Кролок мюзикл "Бал вампиров")</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F59114542%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobDRVQzFQTkRvSWMzY1Q5VVJBdGRIWXlaYURTaEUzZTdGS1FIRlpaUjczVmJROVEyM25SNXJkaEZ6WlJpMndzRy9vRDUwanVzYlh2MTU0VzI0S1U5bjU%2FIvan_Ozhogin_-_Neutolimaya_zhazhda_Ariya_Grafa_fon_Krolok_myuzikl_Bal_vampirov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Неутолимая жажда(Ария Графа фон Кролок мюзикл &quot;Бал вампиров&quot;)">скачать Иван Ожогин - Неутолимая жажда(Ария Графа фон Кролок мюзикл "Бал вампиров")</a>
+
+			06:05
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/59114542/Ivan_Ozhogin_-_Neutolimaya_zhazhda_Ariya_Grafa_fon_Krolok_myuzikl_Bal_vampirov/"><span class="ctitle">Неутолимая жажда(Ария Графа фон Кролок мюзикл "Бал вампиров")</span></a></div>
+		
+	<div class="playlist-lyrics">Тишина и мрак ночной,<br>
+За тучи скрылась от меня луна.<br>
+От ужаса она трепещет предо мной.<br>
+Я один с моей тоской,<br>
+ведь в это мире я изгой.<br>
+Июльский вечер,золотой закат,<br>
+Это было ровно 300 лет назад,<br>
+Шептал я нежные слова<br>
+и над нами шелестела в поле трава.<br>
+С ума сошли мы от любовных ласк,<br>
+Для нас обоих это было в первый раз.<br>
+Не могу забыть ее предсмертный крик<br>
+В объятиях моих.<br>
+Я темной силы порождение,<br>
+Полночный правлю бал.<br>
+Судьбою проклят от рождения, - <br>
+Покоя я не знал.<br>
+И во мраке безутешно душа блуждает сотни лет,<br>
+И веры нет и нетнадежды во мне.<br>
+....<br>
+<br>
+Я постичь пытался невозможное,<br>
+Я стремился в никуда.<br>
+навеки счастлив быть не может,тот <br>
+Кто проклят навсегда.<br>
+<br>
+Увы, неведала опасности <br>
+дочка католического пастора,<br>
+Она вздохнула тихо в смертный час<br>
+И взор ее угас.<br>
+... был обеспечен, юн<br>
+У дворца почетный нес он караул.<br>
+О том,как был жесток его удел<br>
+Я плакал и скорбел.<br>
+О, как мучительны скитания<br>
+Потерянной души,<br>
+но я не чувствую раскаянья<br>
+за то, что совершил.<br>
+И я плачу кровавой данью,<br>
+Чтоб утолить тоску свою,<br>
+Я грешный ангел во тьме мироздания,<br>
+...<br>
+Я разрушаю все, что люблю.<br>
+<br>
+Я постичь пытался невозможное,<br>
+Я стремился в никуда.<br>
+Только счастлив быть не может,<br>
+Тот кто проклят навсегда.<br>
+<br>
+Кто-то молится Иисусу, <br>
+Другому милей Коран, -<br>
+Каждый волен себе по вкусу<br>
+выбирать паству и храм.<br>
+Для кого-то богатства превыше всего,<br>
+А кто-то лишь дьявола чтит одного.<br>
+.....<br>
+Отныне и в грядущем<br>
+Я судья и я пророк,<br>
+Я предрекаю всем ныне живущим:<br>
+Взойдет на престол жестокий бог,<br>
+Кровавой жажды бог.</div></li>
+	
+	<li class="track" data-index="36" data-id="59966737" data-mp3="https://data.zvyki.com/listen/59966737/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobElTNVUzc2UyMWJqeVhiQUJ0ZXNxZ05JMUhKYVdpTDZuT2MzcFQvVEczVDFRMFl6NGlBdkVKYm5lMWlERGJVTzViM01hN1labk1JQTNWR2NrQ3drMUI/Ivan_Ozhogin_-_Eto_bylo_u_morya_-_k_f_Klyuch_ot_spalni_live_(Zvyki.com).mp3" data-duration="210000" data-lyrics-id="146877949">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Это было у моря - к/ф &quot;Ключ от спальни&quot; (live)">слушать Иван Ожогин - Это было у моря - к/ф "Ключ от спальни" (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F59966737%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobElTNVUzc2UyMWJqeVhiQUJ0ZXNxZ05JMUhKYVdpTDZuT2MzcFQvVEczVDFRMFl6NGlBdkVKYm5lMWlERGJVTzViM01hN1labk1JQTNWR2NrQ3drMUI%2FIvan_Ozhogin_-_Eto_bylo_u_morya_-_k_f_Klyuch_ot_spalni_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Это было у моря - к/ф &quot;Ключ от спальни&quot; (live)">скачать Иван Ожогин - Это было у моря - к/ф "Ключ от спальни" (live)</a>
+
+			03:30
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/59966737/Ivan_Ozhogin_-_Eto_bylo_u_morya_-_k_f_Klyuch_ot_spalni_live/"><span class="ctitle">Это было у моря - к/ф "Ключ от спальни" (live)</span></a></div>
+		
+	<div class="playlist-lyrics">А. Петров - И. Северянин<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="37" data-id="60521673" data-mp3="https://data.zvyki.com/listen/60521673/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobXdWaUtBclRyWjVNZVFrMXhQaUpqME9NZXBiUmpUbGZJdHVKUzJkZWVNUlBEdnl5MkhycGpHT3VDT0k1a3VJZmpUVTZsZHcxZW9IOGp1eitKUUxKeHk/Ivan_Ozhogin_-_Muzyka_nochi_(Zvyki.com).mp3" data-duration="286000" data-lyrics-id="212547141">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Музыка ночи">слушать Иван Ожогин - Музыка ночи</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F60521673%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobXdWaUtBclRyWjVNZVFrMXhQaUpqME9NZXBiUmpUbGZJdHVKUzJkZWVNUlBEdnl5MkhycGpHT3VDT0k1a3VJZmpUVTZsZHcxZW9IOGp1eitKUUxKeHk%2FIvan_Ozhogin_-_Muzyka_nochi_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Музыка ночи">скачать Иван Ожогин - Музыка ночи</a>
+
+			04:46
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/60521673/Ivan_Ozhogin_-_Muzyka_nochi/"><span class="ctitle">Музыка ночи</span></a></div>
+		
+	<div class="playlist-lyrics">Andrew Lloyd Webber<br>
+<br>
+Источник - city-fm.ru/?an=programms-page-text&amp;amp;uid=960&amp;amp;kw1=960</div></li>
+	
+	<li class="track" data-index="38" data-id="60563547" data-mp3="https://data.zvyki.com/listen/60563547/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa2lHSG5VdEptVGxTV1NCanNsNHFuSDBiaE4wa3RsYzcvRkFyNThPVGg2NmdGQTI2MTB3SEp0STNTZlJrNHN4eVEreXNqaC9FNXFsK3FpelIwR1JSejA/Ivan_Ozhogin_-_Sorry_Seems_to_Be_the_Hardest_Word_live_(Zvyki.com).mp3" data-duration="238000" data-lyrics-id="197861433">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Sorry Seems to Be the Hardest Word (live)">слушать Иван Ожогин - Sorry Seems to Be the Hardest Word (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F60563547%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa2lHSG5VdEptVGxTV1NCanNsNHFuSDBiaE4wa3RsYzcvRkFyNThPVGg2NmdGQTI2MTB3SEp0STNTZlJrNHN4eVEreXNqaC9FNXFsK3FpelIwR1JSejA%2FIvan_Ozhogin_-_Sorry_Seems_to_Be_the_Hardest_Word_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Sorry Seems to Be the Hardest Word (live)">скачать Иван Ожогин - Sorry Seems to Be the Hardest Word (live)</a>
+
+			03:58
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/60563547/Ivan_Ozhogin_-_Sorry_Seems_to_Be_the_Hardest_Word_live/"><span class="ctitle">Sorry Seems to Be the Hardest Word (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Elton John - Bernie Taupin<br>
+Концерт "Back to Berlin".<br>
+Frannz Club in der Kulturbrauerei, Берлин, Германия. 10.05.2014 г.</div></li>
+	
+	<li class="track" data-index="39" data-id="61058146" data-mp3="https://data.zvyki.com/listen/61058146/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoblkzcXo0S2kxVTdrYUN4eXJLMzhBQVh2WklZeDJmcDlkVmV3SkR5d082WHRrd25EVXVSQjd0QkJxK3VjUUNhZytCWTZJNVpFMHZJbHhTR2V5aU4xMWc/Ivan_Ozhogin_-_Balnyj_zal_(Zvyki.com).mp3" data-duration="611000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Бальный зал">слушать Иван Ожогин - Бальный зал</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F61058146%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoblkzcXo0S2kxVTdrYUN4eXJLMzhBQVh2WklZeDJmcDlkVmV3SkR5d082WHRrd25EVXVSQjd0QkJxK3VjUUNhZytCWTZJNVpFMHZJbHhTR2V5aU4xMWc%2FIvan_Ozhogin_-_Balnyj_zal_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Бальный зал">скачать Иван Ожогин - Бальный зал</a>
+
+			10:11
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/61058146/Ivan_Ozhogin_-_Balnyj_zal/"><span class="ctitle">Бальный зал</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="40" data-id="61331237" data-mp3="https://data.zvyki.com/listen/61331237/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGNqN21iYU1Mdit1eEpNcW1ON3JyTG42MTRMU04xRjJkb2JjeWFGMnZxeWlhWiswWGkxaGd4d2k3VmlwajBTNWFTWitPZGpHZlZrZ2FVVkhPbjhiSUk/Ivan_Ozhogin_-_Gethsemane_Ariya_Hrista_(Zvyki.com).mp3" data-duration="303000" data-lyrics-id="217805380">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Gethsemane (Ария Христа)">слушать Иван Ожогин - Gethsemane (Ария Христа)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F61331237%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobGNqN21iYU1Mdit1eEpNcW1ON3JyTG42MTRMU04xRjJkb2JjeWFGMnZxeWlhWiswWGkxaGd4d2k3VmlwajBTNWFTWitPZGpHZlZrZ2FVVkhPbjhiSUk%2FIvan_Ozhogin_-_Gethsemane_Ariya_Hrista_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Gethsemane (Ария Христа)">скачать Иван Ожогин - Gethsemane (Ария Христа)</a>
+
+			05:03
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/61331237/Ivan_Ozhogin_-_Gethsemane_Ariya_Hrista/"><span class="ctitle">Gethsemane (Ария Христа)</span></a></div>
+		
+	<div class="playlist-lyrics">Музыкальный кристалл<br>
+13.01.12</div></li>
+	
+	<li class="track" data-index="41" data-id="61418471" data-mp3="https://data.zvyki.com/listen/61418471/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobTJvU0Q3WU5CS0JQNTRGT1BhTTBqQzNpTHZTU2JnYVVXWVpqaGZiSDRvU3V3VGpjWnFIVmthL2Y2eUg1Qy8zYWhoaS9rYnZqV2Y4WXBjR0JRQWJSS3M/Ivan_Ozhogin_-_Ariya_Saleri_Le_Bien_Qui_Fait_Mal_Mozart_L_Op_ra_Rock_(Zvyki.com).mp3" data-duration="170000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Ария Сальери / Le Bien Qui Fait Mal (Mozart, L'Opéra Rock)">слушать Иван Ожогин - Ария Сальери / Le Bien Qui Fait Mal (Mozart, L'Opéra Rock)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F61418471%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobTJvU0Q3WU5CS0JQNTRGT1BhTTBqQzNpTHZTU2JnYVVXWVpqaGZiSDRvU3V3VGpjWnFIVmthL2Y2eUg1Qy8zYWhoaS9rYnZqV2Y4WXBjR0JRQWJSS3M%2FIvan_Ozhogin_-_Ariya_Saleri_Le_Bien_Qui_Fait_Mal_Mozart_L_Op_ra_Rock_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Ария Сальери / Le Bien Qui Fait Mal (Mozart, L'Opéra Rock)">скачать Иван Ожогин - Ария Сальери / Le Bien Qui Fait Mal (Mozart, L'Opéra Rock)</a>
+
+			02:50
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/61418471/Ivan_Ozhogin_-_Ariya_Saleri_Le_Bien_Qui_Fait_Mal_Mozart_L_Op_ra_Rock/"><span class="ctitle">Ария Сальери / Le Bien Qui Fait Mal (Mozart, L'Opéra Rock)</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="42" data-id="62085468" data-mp3="https://data.zvyki.com/listen/62085468/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoazhObExpeEt1KzloQnFUZTA4S2FmQ1FvTWdBb2lRbWpERThVUlZZYnc4ZGhHSWtFQ1Zuc0JqcS9KbkRZenBQeUFEUzMzMEY4czlRdEtQZlRCZ0lrR3g/Ivan_Ozhogin_-_Izumrud_live_(Zvyki.com).mp3" data-duration="304000" data-lyrics-id="146876471">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Изумруд (live)">слушать Иван Ожогин - Изумруд (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F62085468%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoazhObExpeEt1KzloQnFUZTA4S2FmQ1FvTWdBb2lRbWpERThVUlZZYnc4ZGhHSWtFQ1Zuc0JqcS9KbkRZenBQeUFEUzMzMEY4czlRdEtQZlRCZ0lrR3g%2FIvan_Ozhogin_-_Izumrud_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Изумруд (live)">скачать Иван Ожогин - Изумруд (live)</a>
+
+			05:04
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/62085468/Ivan_Ozhogin_-_Izumrud_live/"><span class="ctitle">Изумруд (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Б. Фомин - А. Дактиль<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="43" data-id="62180464" data-mp3="https://data.zvyki.com/listen/62180464/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa2R0OXB2VXUzckRLY0VSMnFJZHRsa2EzQmxkYkI2YnFpNklJbGdndXpNcU9ZOVZEODFCVG1xSHFpNkY3U2VmbUV5Y3I0aENWcVFybGlsNjZIWEE2NVc/Ivan_Ozhogin_-_Ariya_Myshinogo_Korolya_-_CSHelkunchik_i_proklyate_tmy_(Zvyki.com).mp3" data-duration="165000" data-lyrics-id="131218144">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Ария Мышиного Короля - Щелкунчик и проклятье тьмы">слушать Иван Ожогин - Ария Мышиного Короля - Щелкунчик и проклятье тьмы</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F62180464%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoa2R0OXB2VXUzckRLY0VSMnFJZHRsa2EzQmxkYkI2YnFpNklJbGdndXpNcU9ZOVZEODFCVG1xSHFpNkY3U2VmbUV5Y3I0aENWcVFybGlsNjZIWEE2NVc%2FIvan_Ozhogin_-_Ariya_Myshinogo_Korolya_-_CSHelkunchik_i_proklyate_tmy_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Ария Мышиного Короля - Щелкунчик и проклятье тьмы">скачать Иван Ожогин - Ария Мышиного Короля - Щелкунчик и проклятье тьмы</a>
+
+			02:45
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/62180464/Ivan_Ozhogin_-_Ariya_Myshinogo_Korolya_-_CSHelkunchik_i_proklyate_tmy/"><span class="ctitle">Ария Мышиного Короля - Щелкунчик и проклятье тьмы</span></a></div>
+		
+	<div class="playlist-lyrics">Куплет:<br>
+<br>
+Злой демон я. И это выбор мой.<br>
+К нему пришел дорогою своею.<br>
+И если проклинаю я порой,<br>
+То и меня когда то не жалели<br>
+Я предал все о чем мечтал и грезил,<br>
+То, что любил отдал я на позор<br>
+Служу я тьме отныне и навеки!<br>
+И жажду крови вашей я с тех пор!<br>
+<br>
+Припев: Вечная мгла... Вечная мгла...Вечная мгла... Вечная мгла...<br>
+<br>
+Куплет:<br>
+<br>
+Я всемогущ, коварен, беспринципен.<br>
+Рабов средь вас себе найду всегда<br>
+Как не бывает веры без молитвы,<br>
+Так не бывает зла без подлеца!<br>
+Страдания несу всему живому.<br>
+Детеныша людей переродив,<br>
+Я в ад ворота человечеству открою,<br>
+И вас уже никто не защитит!<br>
+<br>
+Припев: Вечная мгла... Вечная мгла...Вечная мгла... Вечная мгла...</div></li>
+	
+	<li class="track" data-index="44" data-id="62305251" data-mp3="https://data.zvyki.com/listen/62305251/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobVhsYU5wa1QrdmcwSjJxVVpGMnRhVW9qc3pvNHpvT3pya0R5UEFOSnV4VU9aUHVoMFZtUFdTM29ZNS9vdHVKMU5udkZNdHFDMEcxZUR3WjFvQ2dBaDk/Ivan_Ozhogin_-_Mamma_(Zvyki.com).mp3" data-duration="165000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Mamma">слушать Иван Ожогин - Mamma</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F62305251%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobVhsYU5wa1QrdmcwSjJxVVpGMnRhVW9qc3pvNHpvT3pya0R5UEFOSnV4VU9aUHVoMFZtUFdTM29ZNS9vdHVKMU5udkZNdHFDMEcxZUR3WjFvQ2dBaDk%2FIvan_Ozhogin_-_Mamma_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Mamma">скачать Иван Ожогин - Mamma</a>
+
+			02:45
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/62305251/Ivan_Ozhogin_-_Mamma/"><span class="ctitle">Mamma</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="45" data-id="62344524" data-mp3="https://data.zvyki.com/listen/62344524/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobjRUL2JIV1lwL1VrR1VrSWpXSkM2SFA0dGRsMG5oM2U2WGpZdUc4Rlh3Ty93MlJCUzg0NlZaMHRPRyt1aXpINSszc1lIR3lFM3pYTUJseU5kUkt5bHM/Ivan_Ozhogin_-_Ochi_chyornye_live_(Zvyki.com).mp3" data-duration="161000" data-lyrics-id="145490819">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Очи чёрные (live)">слушать Иван Ожогин - Очи чёрные (live)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F62344524%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobjRUL2JIV1lwL1VrR1VrSWpXSkM2SFA0dGRsMG5oM2U2WGpZdUc4Rlh3Ty93MlJCUzg0NlZaMHRPRyt1aXpINSszc1lIR3lFM3pYTUJseU5kUkt5bHM%2FIvan_Ozhogin_-_Ochi_chyornye_live_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Очи чёрные (live)">скачать Иван Ожогин - Очи чёрные (live)</a>
+
+			02:41
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/62344524/Ivan_Ozhogin_-_Ochi_chyornye_live/"><span class="ctitle">Очи чёрные (live)</span></a></div>
+		
+	<div class="playlist-lyrics">Ф. Герман - Е. Гребёнка<br>
+Концерт "Летний роман с..."<br>
+Санкт-Петербург, 12.06.2012 г.</div></li>
+	
+	<li class="track" data-index="46" data-id="63072651" data-mp3="https://data.zvyki.com/listen/63072651/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobmRGQUlXRzlwNXhWb2liU0FpS3RhUGRTMXJJOUNCblBXL3pNR2FyQTFCRUthYThucndNamRSblRyMUc4OGpiVVE2WWhaRG5hOXE1cnppc2w0aDIvRlY/Ivan_Ozhogin_-_Teatralnaya_sreda_bratev_Vernikov_radiostanciya_MOSKVA.FM_(Zvyki.com).mp3" data-duration="3020000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Театральная среда братьев Верников (радиостанция MOSKVA.FM)">слушать Иван Ожогин - Театральная среда братьев Верников (радиостанция MOSKVA.FM)</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F63072651%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobmRGQUlXRzlwNXhWb2liU0FpS3RhUGRTMXJJOUNCblBXL3pNR2FyQTFCRUthYThucndNamRSblRyMUc4OGpiVVE2WWhaRG5hOXE1cnppc2w0aDIvRlY%2FIvan_Ozhogin_-_Teatralnaya_sreda_bratev_Vernikov_radiostanciya_MOSKVA.FM_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Театральная среда братьев Верников (радиостанция MOSKVA.FM)">скачать Иван Ожогин - Театральная среда братьев Верников (радиостанция MOSKVA.FM)</a>
+
+			50:20
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/63072651/Ivan_Ozhogin_-_Teatralnaya_sreda_bratev_Vernikov_radiostanciya_MOSKVA.FM/"><span class="ctitle">Театральная среда братьев Верников (радиостанция MOSKVA.FM)</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="47" data-id="63614259" data-mp3="https://data.zvyki.com/listen/63614259/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoblY0TGVSRzJ3ZGJ1L2dMeEhzYyt2MHJKN0cyQmlwYmJiOEFncXFjcFR3Y0FjS1NmNm9TRFdKdzJLRTVDVnZMZUNJR05IMExIbzVDNlRFaWZwZjN1NTE/Ivan_Ozhogin_-_Bog_vash_myortv_myuzikl_Bal_vampirov_(Zvyki.com).mp3" data-duration="163000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Бог ваш мёртв (мюзикл &quot;Бал вампиров&quot;)">слушать Иван Ожогин - Бог ваш мёртв (мюзикл "Бал вампиров")</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F63614259%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRoblY0TGVSRzJ3ZGJ1L2dMeEhzYyt2MHJKN0cyQmlwYmJiOEFncXFjcFR3Y0FjS1NmNm9TRFdKdzJLRTVDVnZMZUNJR05IMExIbzVDNlRFaWZwZjN1NTE%2FIvan_Ozhogin_-_Bog_vash_myortv_myuzikl_Bal_vampirov_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Бог ваш мёртв (мюзикл &quot;Бал вампиров&quot;)">скачать Иван Ожогин - Бог ваш мёртв (мюзикл "Бал вампиров")</a>
+
+			02:43
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/63614259/Ivan_Ozhogin_-_Bog_vash_myortv_myuzikl_Bal_vampirov/"><span class="ctitle">Бог ваш мёртв (мюзикл "Бал вампиров")</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="48" data-id="63617321" data-mp3="https://data.zvyki.com/listen/63617321/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUVuYkFYakpkWUgxV1loY015Wk5sYzFuY3Jza0YySEVNM3NEd0wwZjhtb3BJNElDR1NNWWhFRG4yWU9CY01QdWJVdUVPRGY2bThacjNUVFlmOE1NVFY/Ivan_Ozhogin_-_Bog_vash_mertv_(Zvyki.com).mp3" data-duration="242000" data-lyrics-id="false">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Бог ваш мертв">слушать Иван Ожогин - Бог ваш мертв</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F63617321%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUVuYkFYakpkWUgxV1loY015Wk5sYzFuY3Jza0YySEVNM3NEd0wwZjhtb3BJNElDR1NNWWhFRG4yWU9CY01QdWJVdUVPRGY2bThacjNUVFlmOE1NVFY%2FIvan_Ozhogin_-_Bog_vash_mertv_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Бог ваш мертв">скачать Иван Ожогин - Бог ваш мертв</a>
+
+			04:02
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/63617321/Ivan_Ozhogin_-_Bog_vash_mertv/"><span class="ctitle">Бог ваш мертв</span></a></div>
+		
+	</li>
+	
+	<li class="track" data-index="49" data-id="63617325" data-mp3="https://data.zvyki.com/listen/63617325/UUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUVuYkFYakpkWUgxV1loY015Wk5sY3ZlS1ZkSUZlejBsRnpaeVV3TEJnZTlwZHNWRTRpVUVZeWpkMys2WXN2WkM0NklOM29MYjZ2SFhmTlR3T3orTy8/Ivan_Ozhogin_-_Bog_myortv_(Zvyki.com).mp3" data-duration="238000" data-lyrics-id="224250305">
+	
+		<a href="javascript:void(0);" class="no-ajaxy player-playback playlist-play" title="слушать Иван Ожогин - Бог мёртв">слушать Иван Ожогин - Бог мёртв</a>
+		
+		<em>
+			
+			
+			<a href="javascript:void(0);" class="z-icon-fav_false no-ajaxy" title="добавить в избранное">(добавить в избранное)</a>
+			
+			<a href="javascript:void(0);" class="z-icon-mp3text no-ajaxy player-text active" title="текст песни">(текст песни)</a> 
+
+			<a href="https://download.79url.com/check?sub1=ipleer&amp;sub2=zvyki.com&amp;url=https%3A%2F%2Fdata.zvyki.com%2Ffile%2F63617325%2FUUdlRUlUZnFjaTZhN3dqbkgxK2crTWJMYkN6VUsxTmVadmxSUTFIRTRobUVuYkFYakpkWUgxV1loY015Wk5sY3ZlS1ZkSUZlejBsRnpaeVV3TEJnZTlwZHNWRTRpVUVZeWpkMys2WXN2WkM0NklOM29MYjZ2SFhmTlR3T3orTy8%2FIvan_Ozhogin_-_Bog_myortv_%28Zvyki.com%29.mp3" target="_blank" class="playlist-down no-ajaxy" title="скачать Иван Ожогин - Бог мёртв">скачать Иван Ожогин - Бог мёртв</a>
+
+			03:58
+		</em>
+		
+		<div class="playlist-title"><span class="cartist">Иван Ожогин</span> - <a href="/song/63617325/Ivan_Ozhogin_-_Bog_myortv/"><span class="ctitle">Бог мёртв</span></a></div>
+		
+	<div class="playlist-lyrics">Тень моя тебе являлась во сне<br>
+И при луне тайно ты обо мне мечтала.<br>
+Судьбе навстречу, ангел мой, поспеши<br>
+Темною страстью одинокой души<br>
+Тебя призываю в полночной тиши.<br>
+Бог ваш мертв, забыто имя его!<br>
+И на земле больше нет ничего святого!<br>
+Предел скитаний наших недостижим<br>
+Не зная покоя, от света бежим.<br>
+Наше проклятие - вечная жизнь...<br>
+Знай, должна ты умереть,<br>
+Чтоб постигнуть бесконечность,<br>
+Ибо может только смерть<br>
+Стать залогом жизни вечной!<br>
+Так простись же с мирской суетой<br>
+И взамен обретешь бессмертие<br>
+Лишь доверься мне, лети же со мной<br>
+Во мраке мироздания...<br>
+(чей-то голос манит за собой)<br>
+Не бойся....<br>
+Ко мне навстречу, ангел мой, поспеши<br>
+Темною страстью одинокой души<br>
+Тебя призываю в полночной тиши.<br>
+<br>
+Хор:<br>
+Умер Бог, забыто имя его!<br>
+И на земле больше нет ничего святого!<br>
+Предел скитаний наших недостижим<br>
+Не зная покоя,от света бежим.<br>
+Наше проклятие - вечная жизнь...</div></li>
+	</ul><div class="rbt_offer"></div><ul class="listalka1" data-next-page="/artist/348701-Ivan_Ozhogin/page/3/"><li class="listalka1-f"><a href="/artist/348701-Ivan_Ozhogin/"><i>назад</i></a></li><li><a href="/artist/348701-Ivan_Ozhogin/">1</a></li><li><em>2</em></li><li><a href="/artist/348701-Ivan_Ozhogin/page/3/">3</a></li><li><a href="/artist/348701-Ivan_Ozhogin/page/4/">4</a></li><li><a href="/artist/348701-Ivan_Ozhogin/page/5/">5</a></li><li><a href="/artist/348701-Ivan_Ozhogin/page/6/">6</a></li><li><i>...</i></li><li><a href="/artist/348701-Ivan_Ozhogin/page/26/">26</a></li><li class="listalka1-l"><a href="/artist/348701-Ivan_Ozhogin/page/3/"><i>вперёд</i></a></li></ul></div>																			</div>
+			<!-- / <<<<<<<<<< LEFT -->
+
+			<!--  >>>>>>>>>> RIGHT -->
+			<div id="xbody-right">
+				<a href="/random" class="btn_st1 randomplaylist_btn">Случайный плейлист</a>
+						<div id="MF_Zvyki_D_240x400"></div>
+		
+				<!-- ===== music_styles -->
+				<ul id="music_styles"><!--
+					--><li><a href="/" title="Поп">Поп</a></li><!--
+					--><li><a href="/top/style/rock/" title="Рок">Рок</a></li><!--
+					--><li><a href="/top/style/classical/" title="Классика">Классика</a></li><!--
+					--><li><a href="/top/style/jazz/" title="Джаз">Джаз</a></li><!--
+					--><li><a href="/top/style/alternative/" title="Альтернатива">Альтернатива</a></li><!--
+					--><li><a href="/top/style/rap/" title="Хип-Хоп">Хип-Хоп</a></li><!--
+					--><li><a href="/top/style/folk/" title="Фолк">Фолк</a></li><!--
+					--><li><a href="/top/style/rnb/" title="R'n'B">R'n'B</a></li><!--
+					--><li><a href="/top/style/estrada/" title="Эстрада">Эстрада</a></li><!--
+					--><li><a href="/top/style/metal/" title="Металл">Металл</a></li><!--
+					--><li><a href="/top/style/country/" title="Кантри">Кантри</a></li><!--
+					--><li><a href="/top/style/relax/" title="Релакс">Релакс</a></li><!--
+					--><li><a href="/top/style/dance/" title="Танцевальная">Танцевальная</a></li><!--
+					--><li><a href="/top/style/reggae/" title="Регги">Регги</a></li><!--
+					--><li><a href="/top/style/blues/" title="Блюз">Блюз</a></li><!--
+					--><li><a href="/top/style/electronics/" title="Электроника">Электроника</a></li><!--
+					--><li><a href="/top/style/soundtrack/" title="Саундтрек">Саундтрек</a></li><!--
+					--><li><a href="/top/style/punk/" title="Панк">Панк</a></li><!--
+					<li><a href="/top/style/shanson/" title="Шансон">Шансон</a></li>--><!--
+					--><li><a href="https://chanson.info/" title="Шансон" rel="nofollow" class="no-ajaxy" target="_blank">Шансон</a></li><!--
+					--><li><a href="/best_of_year/2019/" title="По годам">По годам</a></li><!--
+					--><li><a href="/top/style/iplayer/" title="Самое скачиваемое">Самое скачиваемое</a></li><!--
+				--></ul>
+				<!-- / ===== music_styles -->
+				
+				<div class="sdblock">
+					<h3 class="sdblock-title">Топ радиостанции</h3>
+					<ul id="playlist-radio-mini" class="radiobl mini"><li class="radio-station-mini" data-index="0" data-id="radio_1" data-mp3="http://ep256.hostingradio.ru:8052/europaplus256.mp3" data-now="/api/radio/rds/1">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/1-evropa_plus.jpg" alt="Европа Плюс"></span></div>
+				<h4>Европа Плюс</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="1" data-id="radio_2" data-mp3="http://dorognoe.hostingradio.ru:8000/radio" data-now="/api/radio/rds/2">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/2-doroznoe_radio.jpg" alt="Дорожное радио"></span></div>
+				<h4>Дорожное радио</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="2" data-id="radio_9" data-mp3="http://stream01.radiocon.ru:8000/live" data-now="/api/radio/rds/9">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/9-radio_kontinental.jpg" alt="Радио Континенталь"></span></div>
+				<h4>Радио Континенталь</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="3" data-id="radio_12" data-mp3="http://stream.tatarradio.ru:2068/;" data-now="/api/radio/rds/12">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/12-tatar_radiosy.jpg" alt="Татар Радиосы"></span></div>
+				<h4>Татар Радиосы</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="4" data-id="radio_17" data-mp3="http://loveradio.live24.gr/loveradio-1000?1394823231480.mp3" data-now="/api/radio/rds/17">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/17-love_radio.jpg" alt="Love Radio"></span></div>
+				<h4>Love Radio</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="5" data-id="radio_28" data-mp3="http://stream.radiodacha.ru:9000/14_dacha_24" data-now="/api/radio/rds/28">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/28-radio_daca.jpg" alt="Радио Дача"></span></div>
+				<h4>Радио Дача</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="6" data-id="radio_31" data-mp3="http://listen.myradio24.com:9000/8286" data-now="/api/radio/rds/31">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/31-bolsoe_radio.jpg" alt="Большое радио"></span></div>
+				<h4>Большое радио</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="7" data-id="radio_36" data-mp3="http://jazz.streamr.ru/jazz-128.mp3" data-now="/api/radio/rds/36">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/36-radio_dzaz.jpg" alt="Радио Джаз"></span></div>
+				<h4>Радио Джаз</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="8" data-id="radio_41" data-mp3="http://62.183.34.109:8000/radio107_256.mp3" data-now="/api/radio/rds/41">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/41-radio_107.jpg" alt="Радио 107"></span></div>
+				<h4>Радио 107</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="9" data-id="radio_47" data-mp3="http://live.borneo.ru:8888/128" data-now="/api/radio/rds/47">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/47-radio_borneo.jpg" alt="Радио Борнео"></span></div>
+				<h4>Радио Борнео</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="10" data-id="radio_65" data-mp3="http://62.33.210.139:8000/;stream.mp3" data-now="/api/radio/rds/65">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/65-radio_iul.jpg" alt="Радио Июль"></span></div>
+				<h4>Радио Июль</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="11" data-id="radio_66" data-mp3="http://195.182.132.18:8230/;" data-now="/api/radio/rds/66">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/66-metro.jpg" alt="Метро"></span></div>
+				<h4>Метро</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="12" data-id="radio_68" data-mp3="http://online.tv-pilot.ru:1027/pilotradio" data-now="/api/radio/rds/68">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/68-radio_pilot.jpg" alt="Радио Пилот"></span></div>
+				<h4>Радио Пилот</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="13" data-id="radio_70" data-mp3="http://94.181.181.72:8000/;stream.nsv" data-now="/api/radio/rds/70">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/70-most_radio.jpg" alt="Мост радио"></span></div>
+				<h4>Мост радио</h4>
+			</a>
+		</li><li class="radio-station-mini" data-index="14" data-id="radio_72" data-mp3="http://stream.radiosibir.ru:8090/HQ" data-now="/api/radio/rds/72">
+			<a href="javascript:void(0);">
+				<div class="radiobl-p"><span class="radiobl-cover"><img src="/radio_image/72-radio_sibir.jpg" alt="Радио Сибирь"></span></div>
+				<h4>Радио Сибирь</h4>
+			</a>
+		</li></ul>
+					<a href="/radio/russia/" class="btn_st1">все радиостанции</a>
+				</div>							</div>
+			<!--  >>>>>>>>>> RIGHT -->
+		</div>
+		<!-- / ========== xBody -->
+
+	</div>
+	<!-- / ==================== xx2 -->
+
+	<!-- ========== Footer -->
+	<footer id="footer">
+		<div id="footer-copyright">© 2011 – 2023 Zvyki.com<br>compleer@ya.ru</div>
+		<ul id="footer-menu"><!--
+			--><li><a href="/">Главная</a></li><!--
+			--><li><a href="/disclaimer" rel="nofollow">Правообладателям</a></li><!--
+			--><li><a href="/rightholder/" rel="nofollow">Правовая информация</a></li><!--
+			--><li><a href="/contact" rel="nofollow">Обратная связь</a></li><!--
+			--><!--
+		--></ul>
+
+			</footer>
+	<!-- / ========== Footer -->
+
+	<!-- Заголовок для плеера -->
+	<div id="player-page-title" class="hidden">
+		<b>Zvyki.com</b>
+		<span>Иван Ожогин - Zvyki.com</span>
+	</div>
+	<!-- / Заголовок для плеера -->
+</div>
